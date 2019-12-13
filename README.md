@@ -23,5 +23,7 @@ words.
 
 Download all the files.
 Run the follwing commands,
+
   make
+  
   ./a.out
