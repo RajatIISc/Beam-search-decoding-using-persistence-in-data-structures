@@ -1,8 +1,7 @@
 # Beam-search-decoding-using-persistence-in-data-structures
 
 The task for beam search decoding for natural
-language generation has been done in the assignment
-4 of the course, E0 251, IISc Bangalore. In general,
+language generation has been done in the appliction part of the course, E0 251, IISc Bangalore. In general,
 beam search decoding follows the method of
 backtracking to generate the desired sentence.
 I propose a persistent model for beam search
@@ -22,7 +21,7 @@ words.
 ## How to run?
 
 Download all the files.
-Run the follwing commands,
+Run the following commands,
 
   make
   
